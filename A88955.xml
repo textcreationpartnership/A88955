@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the tryals, examinations, confessions, condemnations, and executions of divers witches, at Salem, in New-England for their bewitching of sundry people and cattel to death, and doing other great mischiefs, to the ruine of many people about them. With the strange circumstances that attended their enchantments: and their conversation with devils, and other infernal spirits. In a letter to a friend in London. Licensed according to order.</title>
+            <author>M. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88955</idno>
+            <idno type="STC">Wing M12A</idno>
+            <idno type="STC">ESTC R231912</idno>
+            <idno type="EEBO-CITATION">99897509</idno>
+            <idno type="PROQUEST">99897509</idno>
+            <idno type="VID">137286</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137286)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2502:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the tryals, examinations, confessions, condemnations, and executions of divers witches, at Salem, in New-England for their bewitching of sundry people and cattel to death, and doing other great mischiefs, to the ruine of many people about them. With the strange circumstances that attended their enchantments: and their conversation with devils, and other infernal spirits. In a letter to a friend in London. Licensed according to order.</title>
+                  <author>M. C.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Conyers; in Holbourn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: C.M.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Witchcraft --  New England --  Early works to 1800.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137286:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 123 -->
+            <pb facs="tcp:137286:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 123 -->
+            <p>A True Account OF THE TRYALS, EXAMINATIONS, CONFESSIONS, CONDEMNATIONS, and EXECUTIONS of divers WITCHES, At <hi>SALEM,</hi> in <hi>NEW-ENGLAND,</hi> FOR Their Bewitching of ſundry People and Cattel to Death, and doing other great Miſchiefs, to the Ruine of many People about them.</p>
+            <p>WITH The Strange Circumſtances that attended their Enchantments: AND Their Converſation with Devils, and other Infernal Spirits.</p>
+            <p>In a LETTER to a Friend in <hi>LONDON.</hi>
+            </p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Conyers;</hi> in <hi>Holbourn.</hi>
+            </p>
+            <p>1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:137286:2"/>
+            <!-- PDF PAGE 124 -->
+            <head>A True Account of the Tryals and Con<g ref="char:EOLhyphen"/>feſſions of ſeveral WITCHES, in <hi>New-England,</hi> &amp;c.</head>
+            <head type="sub">In a <hi>Letter</hi> to a Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce in Scripture, and divers Hiſtories, we find that by the Deluſion and Temptation of the Devil, ſilly Creatures are drawn aſide to com<g ref="char:EOLhyphen"/>ply with a Diabolick Power, out of Revenge, to miſchief their Fellow-Creatures; and other ſiniſter Deſigns; it may not prove ungrateful to the Age, among other Matters of this kind, to give an Impar<g ref="char:EOLhyphen"/>tial Account of divers Perſons who have been lately Try'd, Convicted and Executed in <hi>New-England,</hi> for their Bewitching, Torturing and Deſtroying People and Cattle; with many ſtrange and amazing Circum<g ref="char:EOLhyphen"/>ſtances that attended the Effecting of their helliſh Per<g ref="char:EOLhyphen"/>formances. And, Firſt,</p>
+            <p>At a Seſſions of <hi>Oyer</hi> and <hi>Terminer, Bridget Biſhop</hi> was Try'd, for Bewitching and Hurting divers Perſons, and Deſtroying their Cattle. Againſt whom, upon Evidence, it appear'd in Court, That ſhe, or ſome<g ref="char:EOLhyphen"/>thing in her ſhape, often came and pinched and bit ſeveral Perſons, grievouſly tormenting and affrighting them, urging them to write their Names in a Book which was then produc'd; and one refuſing it, was carry'd by force from her Wheel, and threatned to be drown'd in a River, if ſhe did not Sign it; but ſhe
+<pb n="3" facs="tcp:137286:2"/>
+               <!-- PDF PAGE 124 -->overcame the Temptation: And that <hi>Biſhop</hi> boaſted ſhe had been the death of divers People. And thoſe ſhe had bewitch'd, when at any time ſhe look'd upon them, were extremely tortur'd; and when they were in a Swoon, if ſhe touch'd them, they would imme<g ref="char:EOLhyphen"/>diately revive, and many the like Geſtures, work'd ſtrange Effects. Once ſhe tempted one <hi>Deliverance Hobbs</hi> to Sign the Book ſhe brought; and becauſe ſhe refuſed, a Spectre, in the Shape of <hi>Biſhop,</hi> whip'd her with Iron Rods; and that ſhe knew this Woman to be at a General Meeting of Witches, in a Field near a Village call'd <hi>Salem;</hi> and that there ſhe took Bread and Wine in a Diabolical way, as a Sacrament. <hi>John Cook</hi> ſaid, upon Oath, That he was aſſaulted by her Shape in his Chamber; which hit him a blow on the Head, and made an Apple fly out of his Hand into his Mother's Lap, at a great diſtance.</p>
+            <p>Her ſhape was often ſeen in a great Light, which appear'd with her, ſo that ſhe might eaſily be diſcern'd. <hi>John Blys</hi>'s Wife Teſtified, That having bought a Sow of <hi>Biſhop</hi>'s Husband, and the Money be<g ref="char:EOLhyphen"/>ing pay'd to another Perſon, the Sow was ſoon after taken with ſtrange Fits, Leaping and Jumping, and beating her Head againſt the places where ſhe came, refuſing her meat, <hi>&amp;c.</hi>
+            </p>
+            <p>She was held to bewitch a Child of one <hi>Samuel Shattock</hi>'s, and when ſhe payed the ſaid <hi>Shattock</hi> mo<g ref="char:EOLhyphen"/>ney, it was unaccountably conveyed away, though Locked never ſo ſafely up, ſhe oppreſſed one <hi>John Lou<g ref="char:EOLhyphen"/>der</hi> in the night, and had like to have deſtroy'd him; and after that, he being at home, and the doors ſhut, a black Pig, or rather the Devil in ſuch a ſhape, ap<g ref="char:EOLhyphen"/>pear'd to him, which he going to kick, it vaniſhed, as he thought, out of the Window: then a black thing Jumped in again, with a Body like a Monkey, the
+<pb n="2" facs="tcp:137286:3"/>
+               <!-- PDF PAGE 125 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:137286:3"/>
+               <!-- PDF PAGE 125 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:137286:4"/>
+               <!-- PDF PAGE 126 -->Face ſomething like a Man, and the feet like a Cocks, which in the midſt of his affrighment, told him, That underſtanding he was in trouble, he come as a Meſſen<g ref="char:EOLhyphen"/>ger to tell him, that if he would be ruled by him, he ſhould want nothing in the World; whereupon endea<g ref="char:EOLhyphen"/>vouring to ſeize it, he could feel no ſubſtance it ſeem<g ref="char:EOLhyphen"/>ing to Jump out of the Window again, and then com<g ref="char:EOLhyphen"/>ing to the Porch, ſaid, You had better take my Coun<g ref="char:EOLhyphen"/>ſel. He then ſtruck at it with a Stick, but the Stick broke, and it Vaniſhing, his Arm was diſabled, and afterward throwing dirt upon his Breaſt, it ſtruck him Dumb for three Days.</p>
+            <p>Many other things of the like nature were teſtifyed againſt her. As that ſhe appeared ſeveral times with a ſtrange Light, and upon her with-drawing, it was Dark. That one <hi>Stacy</hi> being threatned by her, was one dark Night thrown againſt a Stone-Wall, and down a Bank, <hi>&amp;c.</hi> His Horſe-traces breaking in pieces, and he not being able to lift up two Buſhels of Corn, though otherwiſe a Strong Man. It was ſuſpected ſhe killed this Party's Daughter by Witchcraft, and it was pro<g ref="char:EOLhyphen"/>ved that in taking down an old Cellar-Wall of hers, Poppets made of Clouts and Hogs-Hair, were found ſtuck with headleſs-pins. To theſe Accuſations and Proofs againſt her, ſhe made little Defence.</p>
+            <p>
+               <hi>Suſanna Martin</hi> was Tryed upon the ſame account, and the People that were to appear againſt her, found themſelves upon their looking at her, in a ſtrange diſ<g ref="char:EOLhyphen"/>order, falling down when they came to approach her, and being asked the reaſon, ſhe gave a very ſlight An<g ref="char:EOLhyphen"/>ſwer.</p>
+            <p>Againſt her it was proved, that one <hi>John Allen,</hi> re<g ref="char:EOLhyphen"/>fuſing to carry her ſome Staves, by reaſon of the weak<g ref="char:EOLhyphen"/>neſs of his Oxen that drove his Wain, ſhe told him he had better he had; and ſoon after one of his Oxen tired:
+<pb n="5" facs="tcp:137286:4"/>
+               <!-- PDF PAGE 126 -->but this was not all, putting his Oxen to paſture among others, they firſt took a River, and then being reco<g ref="char:EOLhyphen"/>vered, they ran into the Sea, where they were all drowned but one, which for a time run Mad.</p>
+            <p>
+               <hi>John Atkinſon,</hi> having bought a Cow of this Wo<g ref="char:EOLhyphen"/>man's Son, and ſhe being diſpleaſed at the Bargain, though this Cow was Ham-ſtring'd and halter'd, ſhe grew ſo Mad, that ſhe broke all the Ropes, and though tyed to a Tree, ſhe got away. <hi>Bernard Peche,</hi> teſtifi<g ref="char:EOLhyphen"/>ed, That ſhe came in at his Window one Night, and lay upon him for two hours, when recovering himſelf, he got hold of her Hand, and bit her by the Finger, ſo that ſhe going down Stairs, drops of Blood were found, and the prints of her feet in the Snow at the threſhold, but no farther. Once ſhe and another aſſaulted him in his Barn, where he knocked them down with a Quarter-Staff, but they roſe up and got away, and having threat<g ref="char:EOLhyphen"/>ned one time, to ſend a ſhe-Devil to fetch him away, a Cat ſoon after came in at the Window, and took hold on his Throat, when calling upon the Name of God, it flew out of the Window. Alſo falling out with one <hi>Kembal,</hi> for his refuſing to buy a Puppy of her, ſhe ſaid he ſhould have Puppies enough, and one day coming home, he was by an inviſible Power, driven out of the Road upon ſtumps of Trees, and immedi<g ref="char:EOLhyphen"/>ately a Puppy ſhot too and fro between his Legs, and ſometimes over his Shoulder, which he could not hit, though often with his Ax he ſtruck, at it: ſoon after a<g ref="char:EOLhyphen"/>nother, bigger appeared, and flew at him with great fierceneſs, when calling upon the Name of Chriſt, it vaniſhed; and though <hi>Kembal</hi> told it to no body, yet <hi>Martin,</hi> the Priſoner, declared how he had been ſerved.</p>
+            <p>One <hi>Preſſy,</hi> gave Evidence againſt this Woman, that coming home one Night, he ſaw a little out of his way a great Light, to which going and ſtriking at it, he
+<pb n="4" facs="tcp:137286:5"/>
+               <!-- PDF PAGE 127 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:137286:5"/>
+               <!-- PDF PAGE 127 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:137286:6"/>
+               <!-- PDF PAGE 128 -->found it a ſolid Body, and giving it many blows, he had not gone far from it, but <hi>Martin</hi> appeared, and the next day he heard ſhe was Ill of blows and hurts received. One <hi>Ring</hi> Teſtified that ſhe came to him one Night, and bit him by the fingers, the mark of which was produced in Court.</p>
+            <p>
+               <hi>Elizabeth How,</hi> was likewiſe Tryed at the ſame Court for a Witch, and it appeared againſt her that her evil looks caſt People into ſwooning fits, and many great diſorders. That ſhe bewitched one <hi>Stafford</hi>'s Wife, and Child bewitched her Brother's Cattle to Death and the Cattle of divers other Peo<g ref="char:EOLhyphen"/>ple Miſcarried by her Curſes, and bad Wiſhes, and if any diſpleaſed, her one miſchief or other befel them, and one <hi>Sherwin</hi>'s Wife dying, charged her to have a hand in her Death by Witchcraft.</p>
+            <p>She bewitched and killed a Mare of one <hi>Cumings,</hi> and a Daughter of <hi>Tymothy Pearly</hi>'s, the Girl affirming to her Death, that this Woman had bewitched her, and would be in a ſtrange taking, when even ſhe was named, ſaying at the laſt, Though ſhe could torment her Body, ſhe could not hurt her Soul. Divers recanting Witches came in againſt her, and declared, that ſhe had been Baptized with them by the Devil, whereup<g ref="char:EOLhyphen"/>on they kneeled down and Worſhipped him.</p>
+            <p>
+               <hi>Martha Carrier,</hi> was another who was Tryed at this Court upon the like account, and againſt her it was proved by ſeveral Perſons, whom ſhe had bewitched, that they had been by her, or ſomething in her ſhape, bit, pinched, and almoſt choaked, and even upon her Examination and Tryal, her looks and geſtures ſtruck them into ſtrange Conſternations and Diſorders their Necks turning wildly about, at which ſhe ſcoffingly declared, it were no matter if their Necks were twi<g ref="char:EOLhyphen"/>ſted off. Her own Children had declared that ſhe had brought them up to the ſame miſchievous ends, decla<g ref="char:EOLhyphen"/>ring
+<pb n="7" facs="tcp:137286:6"/>
+               <!-- PDF PAGE 128 -->how and where they had been upon theſe wicked deſigns, and what miſchief they had done.</p>
+            <p>She falling out with one <hi>Abbot,</hi> about meaſuring of Ground, he after her threatning of him, had a ſwelling in his Foot, then a pain in his Side, and many other grievous ſores fell upon him, which brought him al<g ref="char:EOLhyphen"/>moſt to his Grave, till ſuch times as this Woman was apprehended, and then he recovered. His Cattle many of them were taken away, by ſtrange and unuſual Deaths. One <hi>Toothmaker</hi> likewiſe loſt many Cattle upon falling out with her, and having a Wound, ſhe told him it ſhould never be Cured, which indeed could not be effected, till the time of her being ſeized, and then it immediately grew well. Likewiſe the Cattle of <hi>John Rogers</hi> were bewitched upon his falling out with her, and divers other People ſuffered the like: She ta<g ref="char:EOLhyphen"/>king one <hi>Phoebe Chandler</hi> by the Shoulder, ſoon after ſhe heard a Voice over her Head, ſaying, In a few Days ſhe ſhould be poyſon'd; and thereupon her Hand ſwel<g ref="char:EOLhyphen"/>led, and ſhe was in many great pains and torments. Divers Women that had been of her Converſation, ac<g ref="char:EOLhyphen"/>cus'd her being at Witch-Meetings, and of Eating and Drinking with the Devil; and, that ſhe drew ſome of them into the Snare.</p>
+            <p>One thing ſtrangely happen'd, during her Tryal, <hi>viz.</hi> One <hi>Suſanna Sheldon</hi> had her Hands tied together with a Whale-Bone by an Inviſible Hand, that it could not be undone without cutting; and for this Service of <hi>Carrier,</hi> the Devil promis'd to make her <hi>Queen of Hell.</hi>
+            </p>
+            <p>Among theſe Women, a Man was Try'd, as a Dealer in the Black-Art, and Witchcraft. It appear'd againſt him, That he had intic'd a great many to ſign the Devil's Book with Blood, or ſome Necromantick Matter. He was ſuſpected to make away Two Wives by Witchcraft; whoſe Ghoſts appear'd, and declar'd
+<pb n="6" facs="tcp:137286:7"/>
+               <!-- PDF PAGE 129 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:137286:7"/>
+               <!-- PDF PAGE 129 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:137286:8" rendition="simple:additions"/>
+               <!-- PDF PAGE 130 -->as much to divers People, charging them to reveal it; and tho' he was but a weak Man to appearance, yet he would lift more than the ſtrongeſt Man could do. So that it was conjectur'd, that the Devil muſt of neceſſity aſſiſt him by a ſecret power. It appear'd againſt him, that he had intic'd many into Witchery; and One re<g ref="char:EOLhyphen"/>fuſing to ſign his Book, was afflicted with cruel Pains for a long time. Some he bit, and the print of his Teeth remained in their Fleſh. And it further ap<g ref="char:EOLhyphen"/>pear'd, that he was the chief Summoner to the Witch-Meetings, and perſuaded People to communicate with the Devil; and many other horrible things, as de<g ref="char:EOLhyphen"/>ſtroying of Cattle, and the like.</p>
+            <p>So that upon full Evidence againſt them all, they were Convicted, and receiv'd Sentence of Death, and were accordingly executed: But ſeveral Children, and others, that had been ſeduc'd by them to theſe hel<g ref="char:EOLhyphen"/>liſh Practices, met with lighter Puniſhments, and have Time allowed them to repent.</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>I am Your True Friend, <hi>C. M.</hi>
+               </signed>
+               <dateline>SALEM, <date>8th. Month, 1692.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:137286:8"/>
+            <!-- PDF PAGE 130 -->
+            <pb n="8" facs="tcp:137286:9" rendition="simple:additions"/>
+            <!-- PDF PAGE 131 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:137286:9"/>
+            <!-- PDF PAGE 131 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
